@@ -39,11 +39,11 @@ All data lives in your **browser's localStorage** — no account, no cloud, no s
 ## Getting Started
 
 ### Option A — Use the live demo
-Visit: `https://YOUR-USERNAME.github.io/workshop-manager/`
+Visit: `https://fatherrahmaneghoul.github.io/workshop-manager/`
 
 ### Option B — Run it locally
 ```bash
-git clone https://github.com/YOUR-USERNAME/workshop-manager.git
+git clone https://github.com/fatherrahmaneghoul/workshop-manager.git
 cd workshop-manager
 # Just open index.html in any modern browser — no server needed
 open index.html
@@ -78,7 +78,14 @@ workshop-manager/
 
 ## Screenshots
 
-> *(Add screenshots here after your first deploy. Recommended: Dashboard, Inventory, Workers)*
+### 📊 Dashboard
+![Dashboard](./screenshots/00.png)
+
+### 📦 Inventory
+![Inventory](./screenshots/01.png)
+
+### 👷 Workers
+![Workers](./screenshots/02.png)
 
 ---
 
