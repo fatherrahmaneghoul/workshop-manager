@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Firebase (if you ever add it back)
+.firebase/
+firebase-debug.log
+.firebaserc
+firebase.json
