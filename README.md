@@ -4,9 +4,8 @@
 
 **No login. No server. No installation.** Open the file, start managing.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-green?style=for-the-badge)](https://YOUR-USERNAME.github.io/workshop-manager/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-green?style=for-the-badge)](https://fatherrahmaneghoul.github.io/workshop-manager/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![Single File](https://img.shields.io/badge/Size-Single%20HTML%20File-orange?style=for-the-badge)]()
 
 ---
 
@@ -121,6 +120,6 @@ Contributions welcome — open an issue or pull request.
 
 ## License
 
-MIT © [Your Name](https://github.com/YOUR-USERNAME)
+MIT © [Fatherrahmane Ghoul](https://github.com/fatherrahmaneghoul)
 
 Free to use, modify, and distribute.
